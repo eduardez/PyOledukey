@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/libs/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
+  (lib (name 2.42oled)(type Legacy)(uri ${KIPRJMOD}/libs/diymore242display-master/2.42oled.lib)(options "")(descr ""))
+  (lib (name diymore)(type Legacy)(uri ${KIPRJMOD}/libs/diymore242display-master/diymore.lib)(options "")(descr ""))
+  (lib (name SSD1306-128x64_OLED)(type Legacy)(uri ${KIPRJMOD}/libs/KiCad-SSD1306-128x64-master/library/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+  (lib (name NXP)(type Legacy)(uri ${KIPRJMOD}/libs/NXP.lib)(options "")(descr ""))
+)

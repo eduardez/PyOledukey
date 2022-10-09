@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri ${KIPRJMOD}/libs/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
+  (lib (name oled242)(type KiCad)(uri ${KIPRJMOD}/libs/diymore242display-master/oled242.pretty)(options "")(descr ""))
+  (lib (name SSD1306)(type KiCad)(uri ${KIPRJMOD}/libs/KiCad-SSD1306-128x64-master/library/SSD1306.pretty)(options "")(descr ""))
+  (lib (name custom_keys)(type KiCad)(uri ${KIPRJMOD}/libs/custom_keys.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/libs/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name pcf8575)(type KiCad)(uri ${KIPRJMOD}/libs/pcf8575.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri C:/Users/Eduardez/Desktop/Proyectos/Oledukey/OLEDU_KiCad/libs/logo.pretty)(options "")(descr ""))
+)
